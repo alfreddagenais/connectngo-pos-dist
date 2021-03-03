@@ -1,2 +1,1 @@
-# connectngo-pos-dist
-connectngo-pos-dist
+# App for Connect&Go - PROD
